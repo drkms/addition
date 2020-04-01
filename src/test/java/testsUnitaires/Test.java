@@ -5,7 +5,7 @@ import java.nio.charset.MalformedInputException;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class test {
+public class Test {
 
 	Addition addition = new Addition();
 
