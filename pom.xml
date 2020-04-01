@@ -8,7 +8,7 @@
 	<packaging>war</packaging>
 
 	<build>
-	  <testSourceDirectory>src/main/test</testSourceDirectory>
+	  <testSourceDirectory>src/test</testSourceDirectory>
 	  <plugins>
 	    <plugin>
 	      <groupId>org.apache.maven.plugins</groupId>
